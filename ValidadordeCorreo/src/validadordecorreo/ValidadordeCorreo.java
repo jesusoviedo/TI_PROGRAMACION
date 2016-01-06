@@ -5,9 +5,9 @@ package validadordecorreo;
  * @author Jesús Oviedo
  */
 public class ValidadordeCorreo {
-
+    
     private static String[] v_Emails;
-
+    
     public static void main(String[] args) {
         v_Emails = new String[]{"test@example.com",
             "test-101@example.com", "test.101@yahoo.com",
@@ -20,7 +20,7 @@ public class ValidadordeCorreo {
             "example..101@test.com", "example.@test.com",
             "test@example_101.com", "example@test@test.com",
             "example@test.com.a5"};
-
+        
         validator vt = new validator();
         vt.validEmailTest(v_Emails);
     }

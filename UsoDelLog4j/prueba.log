@@ -1,0 +1,12 @@
+11:09:21,771 TRACE Logger de Ejemplo:22 - El menos importante, que se suele usar en la fase de desarrollo
+11:09:21,780 DEBUG Logger de Ejemplo:23 - Información útil para depurar
+11:09:21,781  INFO Logger de Ejemplo:24 - Información sobre la aplicación que pueden tener cierto interés para ser mostrados en el log
+11:09:21,781  WARN Logger de Ejemplo:25 - Advertencias o fallos sin importancia para la ejecución del programa
+11:09:21,781 ERROR Logger de Ejemplo:26 - Errores importantes, pero que no obligan a terminar la aplicación
+11:09:21,781 FATAL Logger de Ejemplo:27 - Errores que obligan a terminar la aplicación
+11:12:26,023 TRACE Logger de Ejemplo:22 - El menos importante, que se suele usar en la fase de desarrollo
+11:12:26,026 DEBUG Logger de Ejemplo:23 - Información útil para depurar
+11:12:26,026  INFO Logger de Ejemplo:24 - Información sobre la aplicación que pueden tener cierto interés para ser mostrados en el log
+11:12:26,026  WARN Logger de Ejemplo:25 - Advertencias o fallos sin importancia para la ejecución del programa
+11:12:26,026 ERROR Logger de Ejemplo:26 - Errores importantes, pero que no obligan a terminar la aplicación
+11:12:26,026 FATAL Logger de Ejemplo:27 - Errores que obligan a terminar la aplicación
