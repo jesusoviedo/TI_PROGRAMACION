@@ -3,7 +3,7 @@ package usodellog4j;
 /**
  *
  * @author Jesús Oviedo
- * fuente
+ * fuente 
  * http://programacion.jias.es/2013/03/log4j-tutorial-configuracion-rapida/
  * Como agregar libreria
  * https://www.youtube.com/watch?v=1_P1wGPuG-Q
@@ -22,7 +22,7 @@ public class UsoDelLog4j {
         //BasicConfigurator.configure();
         
         //se coloca la direccion del archivo log4j.properties
-        PropertyConfigurator.configure("C:\\Users\\txtas\\Documents\\NetBeansProjects\\UsoDelLog4j\\src\\usodellog4j\\log4j.properties");
+        PropertyConfigurator.configure("C:\\Users\\txtas\\Documents\\NetBeansProjects\\UsoDelLog4j\\log4j.properties");
         
         Logger log = Logger.getLogger("Logger de Ejemplo");
         
