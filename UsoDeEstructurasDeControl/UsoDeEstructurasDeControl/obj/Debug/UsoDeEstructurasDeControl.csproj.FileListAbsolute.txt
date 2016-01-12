@@ -1,0 +1,12 @@
+J:\Visual Studio 2015\Projects\UsoDeEstructurasDeControl\UsoDeEstructurasDeControl\bin\Debug\UsoDeEstructurasDeControl.exe.config
+J:\Visual Studio 2015\Projects\UsoDeEstructurasDeControl\UsoDeEstructurasDeControl\bin\Debug\UsoDeEstructurasDeControl.exe
+J:\Visual Studio 2015\Projects\UsoDeEstructurasDeControl\UsoDeEstructurasDeControl\bin\Debug\UsoDeEstructurasDeControl.pdb
+J:\Visual Studio 2015\Projects\UsoDeEstructurasDeControl\UsoDeEstructurasDeControl\obj\Debug\UsoDeEstructurasDeControl.csprojResolveAssemblyReference.cache
+J:\Visual Studio 2015\Projects\UsoDeEstructurasDeControl\UsoDeEstructurasDeControl\obj\Debug\UsoDeEstructurasDeControl.form_principal.resources
+J:\Visual Studio 2015\Projects\UsoDeEstructurasDeControl\UsoDeEstructurasDeControl\obj\Debug\UsoDeEstructurasDeControl.Properties.Resources.resources
+J:\Visual Studio 2015\Projects\UsoDeEstructurasDeControl\UsoDeEstructurasDeControl\obj\Debug\UsoDeEstructurasDeControl.csproj.GenerateResource.Cache
+J:\Visual Studio 2015\Projects\UsoDeEstructurasDeControl\UsoDeEstructurasDeControl\obj\Debug\UsoDeEstructurasDeControl.exe
+J:\Visual Studio 2015\Projects\UsoDeEstructurasDeControl\UsoDeEstructurasDeControl\obj\Debug\UsoDeEstructurasDeControl.pdb
+J:\Visual Studio 2015\Projects\UsoDeEstructurasDeControl\UsoDeEstructurasDeControl\obj\Debug\UsoDeEstructurasDeControl.form_list_dias_meses.resources
+J:\Visual Studio 2015\Projects\UsoDeEstructurasDeControl\UsoDeEstructurasDeControl\obj\Debug\UsoDeEstructurasDeControl.form_contar_numeros.resources
+J:\Visual Studio 2015\Projects\UsoDeEstructurasDeControl\UsoDeEstructurasDeControl\obj\Debug\UsoDeEstructurasDeControl.form_trad_dias.resources
