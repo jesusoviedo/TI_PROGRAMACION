@@ -1,0 +1,22 @@
+D:\ConsultaDeIntereses\bin\Debug\ConsultaDeIntereses.exe.config
+D:\Rodrigo Mascheroni\ConsultaDeIntereses\ConsultaDeIntereses\bin\Debug\ConsultaDeIntereses.exe.config
+D:\Rodrigo Mascheroni\ConsultaDeIntereses\ConsultaDeIntereses\bin\Debug\ConsultaDeIntereses.exe
+D:\Rodrigo Mascheroni\ConsultaDeIntereses\ConsultaDeIntereses\bin\Debug\ConsultaDeIntereses.pdb
+D:\Rodrigo Mascheroni\ConsultaDeIntereses\ConsultaDeIntereses\bin\Debug\ConsultaDeIntereses.xml
+D:\Rodrigo Mascheroni\ConsultaDeIntereses\ConsultaDeIntereses\obj\Debug\ConsultaDeIntereses.Resources.resources
+D:\Rodrigo Mascheroni\ConsultaDeIntereses\ConsultaDeIntereses\obj\Debug\ConsultaDeIntereses.vbproj.GenerateResource.Cache
+D:\Rodrigo Mascheroni\ConsultaDeIntereses\ConsultaDeIntereses\obj\Debug\ConsultaDeIntereses.exe
+D:\Rodrigo Mascheroni\ConsultaDeIntereses\ConsultaDeIntereses\obj\Debug\ConsultaDeIntereses.xml
+D:\Rodrigo Mascheroni\ConsultaDeIntereses\ConsultaDeIntereses\obj\Debug\ConsultaDeIntereses.pdb
+D:\Rodrigo Mascheroni\ConsultaDeIntereses\ConsultaDeIntereses\obj\Debug\ConsultaDeIntereses.frmConsultaIntereses.resources
+J:\Visual Studio 2015\Projects\UAA\ConsultaDeIntereses\ConsultaDeIntereses\ConsultaDeIntereses\bin\Debug\ConsultaDeIntereses.exe.config
+J:\Visual Studio 2015\Projects\UAA\ConsultaDeIntereses\ConsultaDeIntereses\ConsultaDeIntereses\obj\Debug\ConsultaDeIntereses.exe
+J:\Visual Studio 2015\Projects\UAA\ConsultaDeIntereses\ConsultaDeIntereses\ConsultaDeIntereses\obj\Debug\ConsultaDeIntereses.xml
+J:\Visual Studio 2015\Projects\UAA\ConsultaDeIntereses\ConsultaDeIntereses\ConsultaDeIntereses\obj\Debug\ConsultaDeIntereses.pdb
+J:\Visual Studio 2015\Projects\UAA\ConsultaDeIntereses\ConsultaDeIntereses\ConsultaDeIntereses\bin\Debug\ConsultaDeIntereses.exe
+J:\Visual Studio 2015\Projects\UAA\ConsultaDeIntereses\ConsultaDeIntereses\ConsultaDeIntereses\bin\Debug\ConsultaDeIntereses.pdb
+J:\Visual Studio 2015\Projects\UAA\ConsultaDeIntereses\ConsultaDeIntereses\ConsultaDeIntereses\bin\Debug\ConsultaDeIntereses.xml
+J:\Visual Studio 2015\Projects\UAA\ConsultaDeIntereses\ConsultaDeIntereses\ConsultaDeIntereses\obj\Debug\ConsultaDeIntereses.vbprojResolveAssemblyReference.cache
+J:\Visual Studio 2015\Projects\UAA\ConsultaDeIntereses\ConsultaDeIntereses\ConsultaDeIntereses\obj\Debug\ConsultaDeIntereses.frmConsultaIntereses.resources
+J:\Visual Studio 2015\Projects\UAA\ConsultaDeIntereses\ConsultaDeIntereses\ConsultaDeIntereses\obj\Debug\ConsultaDeIntereses.Resources.resources
+J:\Visual Studio 2015\Projects\UAA\ConsultaDeIntereses\ConsultaDeIntereses\ConsultaDeIntereses\obj\Debug\ConsultaDeIntereses.vbproj.GenerateResource.Cache

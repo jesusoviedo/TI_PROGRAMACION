@@ -1,0 +1,20 @@
+C:\Users\alumno-205\AppData\Local\Temporary Projects\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\alumno-205\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\alumno-205\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Resources.resources
+C:\Users\alumno-205\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.vbproj.GenerateResource.Cache
+C:\Users\alumno-205\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\alumno-205\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\alumno-205\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.xml
+C:\Users\alumno-205\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\alumno-205\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.xml
+C:\Users\alumno-205\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+J:\Visual Studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+J:\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+J:\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.xml
+J:\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+J:\Visual Studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+J:\Visual Studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+J:\Visual Studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.xml
+J:\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.vbprojResolveAssemblyReference.cache
+J:\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Resources.resources
+J:\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.vbproj.GenerateResource.Cache

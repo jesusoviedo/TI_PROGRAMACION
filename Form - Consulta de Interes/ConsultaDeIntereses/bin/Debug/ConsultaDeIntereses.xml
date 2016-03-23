@@ -1,0 +1,71 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ConsultaDeIntereses
+</name>
+</assembly>
+<members>
+<member name="M:ConsultaDeIntereses.frmConsultaIntereses.frmConsultaIntereses_Load(System.Object,System.EventArgs)">
+ <summary>
+ Autor: Jesus Oviedo Riquelme
+ Año 2016
+ Version 1.2
+ </summary>
+</member>
+<member name="M:ConsultaDeIntereses.frmConsultaIntereses.btnAceptar_Click(System.Object,System.EventArgs)">
+ <summary>
+ btnAceptar_Click(sender As Object, e As EventArgs) Handles btnAceptar.Click
+ Metodo que se ejecuta al dar clic en el boton aceptar, el cual llama al metodo VerificarDatos y a la funcion EscribirArchivo)
+ </summary>
+</member>
+<member name="M:ConsultaDeIntereses.frmConsultaIntereses.VerificarDatos">
+ <summary>
+ VerificarDatos() As Boolean
+ Funcion que validad los datos ingresados o seleccionados, devuelve true si un dato no cumple con cierto requisito
+ </summary>
+</member>
+<member name="M:ConsultaDeIntereses.frmConsultaIntereses.EscribirArchivo">
+ <summary>
+ EscribirArchivo() 
+ Metodo que crea el archivo con nombre archivo_contacto.txt en la carpeta bin (usando ruta relativa)
+ Dentro del archivo creado se va añadiendo todo lo ingresado o seleccionado en el form
+ Se controla excepciones durante la creacion y escritura en el archivo
+ </summary>
+</member>
+<member name="M:ConsultaDeIntereses.frmConsultaIntereses.ValidarEmail(System.String)">
+ <summary>
+ ValidarEmail(ByVal email As String) As Boolean 
+ Metodo que usa las expresiones regulares para poder validar mail retorna true si esta correcto el mail o false si no lo esta
+ </summary>
+</member>
+<member name="M:ConsultaDeIntereses.frmConsultaIntereses.InicializarControles">
+ <summary>
+ InicializarControles()
+ Metodo que setea los valores de los controles usados en el form
+ </summary>
+</member>
+<member name="M:ConsultaDeIntereses.frmConsultaIntereses.btnSalir_Click(System.Object,System.EventArgs)">
+ <summary>
+ btnSalir_Click(sender As Object, e As EventArgs) Handles btnSalir.Click
+ Metodo que se ejecuta al dar clic en el boton salir y permite cerra el form
+ </summary>
+</member>
+<member name="T:ConsultaDeIntereses.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ConsultaDeIntereses.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ConsultaDeIntereses.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>
