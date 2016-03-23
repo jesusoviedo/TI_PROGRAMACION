@@ -5,3 +5,5 @@
 - Conexión a SQL Server usando JDBC (en JAVA)
 - Abrir archivos y link desde un Form (en C#)
 - Uso de estructura de control y try catch en los Form (en C#)
+- Calculadora Basica (en Visual Basic .NET)
+- Consulta de Intereses personales en Form (en Visual Basic .NET)
